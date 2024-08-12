@@ -1,0 +1,6 @@
+[2024-08-12 11:42:15] [+] NtShutdownSystem mapped physical page -> 2072829707920
+[2024-08-12 11:42:15] [+] NtShutdownSystem page offset -> 1680
+[2024-08-12 11:42:15] Driver imports fixed.
+[2024-08-12 11:42:15] Driver mapped.
+[2024-08-12 11:42:15] Driver mapping and verification completed successfully.
+[2024-08-12 11:42:15] init completed successfully.
